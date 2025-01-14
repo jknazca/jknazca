@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Computer Science
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with N/A
-- 💬 Ask me about me
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about the weather
+- 📫 How to reach me: jkim2648@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like dog
